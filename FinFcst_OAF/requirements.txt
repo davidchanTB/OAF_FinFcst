@@ -1,0 +1,9 @@
+teradataml
+sqlalchemy
+pandas
+getpass
+json
+time
+math
+numpy
+time
